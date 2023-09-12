@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnRegistro"
+        android:title="@string/signUp"
+        android:icon="@drawable/registrarse"
+        android:iconTint="@color/white"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/btnIniciarSesion"
+        android:title="@string/signIn"/>
+
+    <item
+        android:id="@+id/btnContacto"
+        android:title="@string/contac"/>
+
+    <item
+        android:id="@+id/btnServicios"
+        android:title="@string/services"/>
+
+    <item
+        android:id="@+id/btnAcercaDe"
+        android:title="@string/about"/>
+
+</menu>

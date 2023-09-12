@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Techlogistic</string>
+    <string name="signUp">Regisrarse</string>
+    <string name="signIn">Iniciar Sesión</string>
+    <string name="contac">Contacto</string>
+    <string name="services">Servicios</string>
+    <string name="about">Acerca de</string>
+    <string name="demo">Solicita demo</string>
+    <string name="nameCompany">Nombre de la empresa</string>
+    <string name="comentary">Comentarios</string>
+    <string name="contactInformation">Contactar</string>
+
+    <string name="name">Nombres</string>
+    <string name="lastName">Apellidos</string>
+    <string name="identificationCard">Cédula</string>
+    <string name="email">Correo</string>
+    <string name="address">Dirección</string>
+    <string name="phone">Teléfono</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="btnBack">Volver</string>
+
+
+    <string name="logo">La plataforma definitiva para la logistica de tu negocio</string>
+    <string name="descripcion">Con Techlogistic, podrás optimizar tus operaciones logísticas, reducir costos y elevar la satisfacción del cliente.</string>
+    <string name="plataformaLogistica">Plataforma de logística que combina tecnología avanzada</string>
+
+    <string name="diseñadaIng">Diseñada por ingenieros y fundadores, Techlogistic fue creada desde cero para resolver nuestros propios desafíos logísticos.</string>
+    <string name="tecn_avan">Tecnología avanzada:</string>
+    <string name="implementamos_algoritmos">Implementamos algoritmos de optimización, inteligencia artificial y sistemas de seguimiento en tiempo real para garantizar un servicio eficiente y confiable</string>
+    <string name="experiencia_en">Experiencia en la industria:</string>
+    <string name="nuestro_equipo">Nuestro equipo de profesionales cuenta con amplia experiencia en logística, lo que nos permite entender y abordar las necesidades específicas de cada cliente</string>
+    <string name="sosteibilidad">Sostenibilidad:</string>
+    <string name="comprometidos_con">Comprometidos con el medio ambiente, trabajamos continuamente para reducir nuestra huella de carbono.Comprometidos con el medio ambiente, trabajamos continuamente para reducir nuestra huella de carbono.</string>
+
+    <string name="plataforma_de">Plataforma de logística que combina tecnología avanzada, experiencia en la industria y sostenibilidad para optimizar tus operaciones y acelerar el crecimiento de tu negocio.</string>
+</resources>
