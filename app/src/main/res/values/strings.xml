@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Techlogistic</string>
-    <string name="signUp">Regisrarse</string>
+    <string name="signUp">Registrarse</string>
     <string name="signIn">Iniciar Sesión</string>
     <string name="contac">Contacto</string>
     <string name="services">Servicios</string>
