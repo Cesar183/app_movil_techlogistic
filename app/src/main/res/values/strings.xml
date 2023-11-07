@@ -19,7 +19,7 @@
     <string name="password">Contraseña</string>
     <string name="confirm_password">Confirmar contraseña</string>
     <string name="btnBack">Volver</string>
-
+    <string name="closeSesion">Cerrar Sesión</string>
 
     <string name="logo">La plataforma definitiva para la logistica de tu negocio</string>
     <string name="descripcion">Con Techlogistic, podrás optimizar tus operaciones logísticas, reducir costos y elevar la satisfacción del cliente.</string>
@@ -34,4 +34,15 @@
     <string name="comprometidos_con">Comprometidos con el medio ambiente, trabajamos continuamente para reducir nuestra huella de carbono.Comprometidos con el medio ambiente, trabajamos continuamente para reducir nuestra huella de carbono.</string>
 
     <string name="plataforma_de">Plataforma de logística que combina tecnología avanzada, experiencia en la industria y sostenibilidad para optimizar tus operaciones y acelerar el crecimiento de tu negocio.</string>
+
+    <string name="welcome">Bienvenido/a a Techlogistic</string>
+    <string name="proveedor">Proveedores</string>
+    <string name="desc_provee">Permite la creación, almacenamiento y actualización de información detallada de los proveedores.</string>
+    <string name="inventario">Inventario</string>
+    <string name="desc_inven">Mantén un registro detallado de inventario de productos, ventas y pedidos. Gestiona la existencia de productos en bodega, registra reportes de ventas y pedidos, controla las devoluciones.</string>
+    <string name="produccion">Producción</string>
+    <string name="desc_produc">Se genera la creación, modificación y eliminación del producto final, facilitando la generación y consulta de informes de producción.</string>
+    <string name="ventas">Ventas</string>
+    <string name="desc_venta">Administra el proceso de ventas, desde el registro de venta hasta la generación de facturas y cotizaciones.</string>
+
 </resources>
